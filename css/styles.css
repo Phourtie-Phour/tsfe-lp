@@ -5,6 +5,7 @@
 }
 
 body{
+	background-color: #ffe5e5;
     max-width:1080px;
     min-width:1080px;
     margin:0 auto;
@@ -944,6 +945,7 @@ text-align: center;
    /*#q-and-a-sp{
     height:1100px;
    }*/
+
 
 
 }
